@@ -64,7 +64,7 @@ const scroll = new LocomotiveScroll();
 ```
 _Get the [JS file](https://github.com/locomotivemtl/locomotive-scroll/blob/master/dist/locomotive-scroll.min.js)._
 
-### Smooth
+#### Smooth
 With smooth scrolling and parallax.
 
 ```html
@@ -75,7 +75,7 @@ With smooth scrolling and parallax.
     </div>
     <div data-scroll-section>
         <h2 data-scroll data-scroll-speed="1">What's up?</h2>
-        <p data-scroll data-scroll-speed="2">😬</p>
+        <p data-scroll data-scroll-speed="2">😎</p>
     </div>
 </div>
 ```
